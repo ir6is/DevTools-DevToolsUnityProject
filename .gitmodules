@@ -1,0 +1,3 @@
+[submodule "Assets/DevToolsSubModule"]
+	path = Assets/DevToolsSubModule
+	url = git@github.com:ir6is/DevTools-DevToolsSubModule.git
